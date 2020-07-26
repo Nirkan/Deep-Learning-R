@@ -1,1 +1,2 @@
-# Deep-Learning-R
+
+Deep Learning tutorials and projects in R.
